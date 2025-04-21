@@ -1,14 +1,160 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+  "orders": [
+    {
+      "id": "89000000",
+      "codigoPostal": "10000",
+      "colonia": "Colonia",
+      "fechaEntrega": "2025-04-01",
+      "estatus": "Entregado",
+      "total": 821.67,
+      "factura": {
+        "pdf": "assets/mock-data/factura1.pdf",
+        "xml": "assets/mock-data/factura1.xml"
+      },
+      "evidencias": [
+        "assets/mock-data/evidencia1_1.jpg",
+        "assets/mock-data/evidencia1_2.jpg",
+        "assets/mock-data/evidencia1_3.jpg"
+      ]
+    },
+    {
+      "id": "89000001",
+      "codigoPostal": "10001",
+      "colonia": "Colonia",
+      "fechaEntrega": "2025-04-02",
+      "estatus": "Entregado",
+      "total": 682.66,
+      "factura": {
+        "pdf": "assets/mock-data/factura2.pdf",
+        "xml": "assets/mock-data/factura2.xml"
+      },
+      "evidencias": [
+        "assets/mock-data/evidencia2_1.jpg",
+        "assets/mock-data/evidencia2_2.jpg",
+        "assets/mock-data/evidencia2_3.jpg"
+      ]
+    },
+    {
+      "id": "89000002",
+      "codigoPostal": "10002",
+      "colonia": "Colonia",
+      "fechaEntrega": "2025-04-03",
+      "estatus": "Entregado",
+      "total": 1006.63,
+      "factura": {
+        "pdf": "assets/mock-data/factura3.pdf",
+        "xml": "assets/mock-data/factura3.xml"
+      },
+      "evidencias": [
+        "assets/mock-data/evidencia3_1.jpg",
+        "assets/mock-data/evidencia3_2.jpg",
+        "assets/mock-data/evidencia3_3.jpg"
+      ]
+    },
+    {
+      "id": "89000003",
+      "codigoPostal": "10003",
+      "colonia": "Colonia",
+      "fechaEntrega": "2025-04-04",
+      "estatus": "Entregado",
+      "total": 653.08,
+      "factura": {
+        "pdf": "assets/mock-data/factura4.pdf",
+        "xml": "assets/mock-data/factura4.xml"
+      },
+      "evidencias": [
+        "assets/mock-data/evidencia4_1.jpg",
+        "assets/mock-data/evidencia4_2.jpg",
+        "assets/mock-data/evidencia4_3.jpg"
+      ]
+    },
+    {
+      "id": "89000004",
+      "codigoPostal": "10004",
+      "colonia": "Colonia",
+      "fechaEntrega": "2025-04-05",
+      "estatus": "Entregado",
+      "total": 270.48,
+      "factura": {
+        "pdf": "assets/mock-data/factura5.pdf",
+        "xml": "assets/mock-data/factura5.xml"
+      },
+      "evidencias": [
+        "assets/mock-data/evidencia5_1.jpg",
+        "assets/mock-data/evidencia5_2.jpg",
+        "assets/mock-data/evidencia5_3.jpg"
+      ]
+    },
+    {
+      "id": "89000005",
+      "codigoPostal": "10005",
+      "colonia": "Colonia",
+      "fechaEntrega": "2025-04-06",
+      "estatus": "En camino",
+      "total": 1532.45,
+      "factura": null,
+      "evidencias": []
+    },
+    {
+      "id": "89000006",
+      "codigoPostal": "10006",
+      "colonia": "Colonia",
+      "fechaEntrega": "2025-04-07",
+      "estatus": "Pendiente",
+      "total": 872.12,
+      "factura": null,
+      "evidencias": []
+    },
+    {
+      "id": "89000007",
+      "codigoPostal": "10007",
+      "colonia": "Colonia",
+      "fechaEntrega": "2025-04-08",
+      "estatus": "Entregado",
+      "total": 356.99,
+      "factura": {
+        "pdf": "assets/mock-data/factura6.pdf",
+        "xml": "assets/mock-data/factura6.xml"
+      },
+      "evidencias": [
+        "assets/mock-data/evidencia6_1.jpg",
+        "assets/mock-data/evidencia6_2.jpg",
+        "assets/mock-data/evidencia6_3.jpg"
+      ]
+    },
+    {
+      "id": "89000008",
+      "codigoPostal": "10008",
+      "colonia": "Colonia",
+      "fechaEntrega": "2025-04-09",
+      "estatus": "Entregado",
+      "total": 942.37,
+      "factura": {
+        "pdf": "assets/mock-data/factura7.pdf",
+        "xml": "assets/mock-data/factura7.xml"
+      },
+      "evidencias": [
+        "assets/mock-data/evidencia7_1.jpg",
+        "assets/mock-data/evidencia7_2.jpg",
+        "assets/mock-data/evidencia7_3.jpg"
+      ]
+    },
+    {
+      "id": "89000009",
+      "codigoPostal": "10009",
+      "colonia": "Colonia",
+      "fechaEntrega": "2025-04-10",
+      "estatus": "Entregado",
+      "total": 734.25,
+      "factura": {
+        "pdf": "assets/mock-data/factura8.pdf",
+        "xml": "assets/mock-data/factura8.xml"
+      },
+      "evidencias": [
+        "assets/mock-data/evidencia8_1.jpg",
+        "assets/mock-data/evidencia8_2.jpg",
+        "assets/mock-data/evidencia8_3.jpg"
+      ]
+    }
+  ]
+} 
