@@ -12,9 +12,18 @@
         "xml": "assets/mock-data/factura1.xml"
       },
       "evidencias": [
-        "assets/mock-data/evidencia1_1.jpg",
-        "assets/mock-data/evidencia1_2.jpg",
-        "assets/mock-data/evidencia1_3.jpg"
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/courier-task-platform/signatures/0d9090ca-9de3-43c8-9e10-b08218b99d7e",
+          "type": "factura"
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/direct-image-capture/5e16ccac-d042-4725-a0cd-8473f3ce6bb9",
+          "type": "entrega"
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/courier-task-platform/signatures/0d9090ca-9de3-43c8-9e10-b08218b99d7e",
+          "type": "firma"
+        }
       ]
     },
     {
@@ -29,9 +38,18 @@
         "xml": "assets/mock-data/factura2.xml"
       },
       "evidencias": [
-        "assets/mock-data/evidencia2_1.jpg",
-        "assets/mock-data/evidencia2_2.jpg",
-        "assets/mock-data/evidencia2_3.jpg"
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/courier-task-platform/signatures/0d9090ca-9de3-43c8-9e10-b08218b99d7e",
+          "type": "factura"
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/direct-image-capture/5e16ccac-d042-4725-a0cd-8473f3ce6bb9",
+          "type": "entrega"
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/courier-task-platform/signatures/0d9090ca-9de3-43c8-9e10-b08218b99d7e",
+          "type": "firma"
+        }
       ]
     },
     {
@@ -46,9 +64,18 @@
         "xml": "assets/mock-data/factura3.xml"
       },
       "evidencias": [
-        "assets/mock-data/evidencia3_1.jpg",
-        "assets/mock-data/evidencia3_2.jpg",
-        "assets/mock-data/evidencia3_3.jpg"
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/courier-task-platform/signatures/0d9090ca-9de3-43c8-9e10-b08218b99d7e",
+          "type": "factura"
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/direct-image-capture/5e16ccac-d042-4725-a0cd-8473f3ce6bb9",
+          "type": "entrega"
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/courier-task-platform/signatures/0d9090ca-9de3-43c8-9e10-b08218b99d7e",
+          "type": "firma"
+        }
       ]
     },
     {
@@ -63,9 +90,18 @@
         "xml": "assets/mock-data/factura4.xml"
       },
       "evidencias": [
-        "assets/mock-data/evidencia4_1.jpg",
-        "assets/mock-data/evidencia4_2.jpg",
-        "assets/mock-data/evidencia4_3.jpg"
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/courier-task-platform/signatures/0d9090ca-9de3-43c8-9e10-b08218b99d7e",
+          "type": "factura"
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/direct-image-capture/5e16ccac-d042-4725-a0cd-8473f3ce6bb9",
+          "type": "entrega"
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/courier-task-platform/signatures/0d9090ca-9de3-43c8-9e10-b08218b99d7e",
+          "type": "firma"
+        }
       ]
     },
     {
@@ -80,9 +116,18 @@
         "xml": "assets/mock-data/factura5.xml"
       },
       "evidencias": [
-        "assets/mock-data/evidencia5_1.jpg",
-        "assets/mock-data/evidencia5_2.jpg",
-        "assets/mock-data/evidencia5_3.jpg"
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/courier-task-platform/signatures/0d9090ca-9de3-43c8-9e10-b08218b99d7e",
+          "type": "factura"
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/direct-image-capture/5e16ccac-d042-4725-a0cd-8473f3ce6bb9",
+          "type": "entrega"
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/courier-task-platform/signatures/0d9090ca-9de3-43c8-9e10-b08218b99d7e",
+          "type": "firma"
+        }
       ]
     },
     {
@@ -117,9 +162,18 @@
         "xml": "assets/mock-data/factura6.xml"
       },
       "evidencias": [
-        "assets/mock-data/evidencia6_1.jpg",
-        "assets/mock-data/evidencia6_2.jpg",
-        "assets/mock-data/evidencia6_3.jpg"
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/courier-task-platform/signatures/0d9090ca-9de3-43c8-9e10-b08218b99d7e",
+          "type": "factura"
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/direct-image-capture/5e16ccac-d042-4725-a0cd-8473f3ce6bb9",
+          "type": "entrega"
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/courier-task-platform/signatures/0d9090ca-9de3-43c8-9e10-b08218b99d7e",
+          "type": "firma"
+        }
       ]
     },
     {
@@ -134,9 +188,18 @@
         "xml": "assets/mock-data/factura7.xml"
       },
       "evidencias": [
-        "assets/mock-data/evidencia7_1.jpg",
-        "assets/mock-data/evidencia7_2.jpg",
-        "assets/mock-data/evidencia7_3.jpg"
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/courier-task-platform/signatures/0d9090ca-9de3-43c8-9e10-b08218b99d7e",
+          "type": "factura"
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/direct-image-capture/5e16ccac-d042-4725-a0cd-8473f3ce6bb9",
+          "type": "entrega"
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/courier-task-platform/signatures/0d9090ca-9de3-43c8-9e10-b08218b99d7e",
+          "type": "firma"
+        }
       ]
     },
     {
@@ -151,10 +214,19 @@
         "xml": "assets/mock-data/factura8.xml"
       },
       "evidencias": [
-        "assets/mock-data/evidencia8_1.jpg",
-        "assets/mock-data/evidencia8_2.jpg",
-        "assets/mock-data/evidencia8_3.jpg"
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/courier-task-platform/signatures/0d9090ca-9de3-43c8-9e10-b08218b99d7e",
+          "type": "factura"
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/direct-image-capture/5e16ccac-d042-4725-a0cd-8473f3ce6bb9",
+          "type": "entrega"
+        },
+        {
+          "url": "https://tb-static.uber.com/prod/file-upload/uploads/courier-task-platform/signatures/0d9090ca-9de3-43c8-9e10-b08218b99d7e",
+          "type": "firma"
+        }
       ]
     }
   ]
-} 
+}
