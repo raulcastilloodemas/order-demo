@@ -1,4 +1,4 @@
-{
+ {
   "orders": [
     {
       "id": "67940612",
@@ -57,7 +57,7 @@
       "codigoPostal": "10002",
       "colonia": "Colonia",
       "fechaEntrega": "2025-04-03",
-      "estatus": "Entregado",
+      "estatus": "En Transito",
       "total": 1006.63,
       "factura": {
         "pdf": "assets/mock-data/factura3.pdf",
@@ -83,7 +83,7 @@
       "codigoPostal": "10003",
       "colonia": "Colonia",
       "fechaEntrega": "2025-04-04",
-      "estatus": "Entregado",
+      "estatus": "Recibimos tu Orden",
       "total": 653.08,
       "factura": {
         "pdf": "assets/mock-data/factura4.pdf",
