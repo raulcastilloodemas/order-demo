@@ -57,7 +57,7 @@
       "codigoPostal": "10002",
       "colonia": "Colonia",
       "fechaEntrega": "2025-04-03",
-      "estatus": "En Transito",
+      "estatus": "En Tránsito",
       "total": 1006.63,
       "factura": {
         "pdf": "assets/mock-data/factura3.pdf",
@@ -135,7 +135,7 @@
       "codigoPostal": "10005",
       "colonia": "Colonia",
       "fechaEntrega": "2025-04-06",
-      "estatus": "En camino",
+      "estatus": "Orden Cancelada",
       "total": 1532.45,
       "factura": null,
       "evidencias": []
